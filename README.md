@@ -70,12 +70,8 @@ python -m tamilmvbot.angel
     <tr><td><code>PORT</code></td><td>10000</td></tr>
     <tr><td><code>TAMILMV_URL</code></td><td>https://www.1tamilmv.fi</td></tr>
   </tbody>
-</table><p><strong>Note:</strong> You will get the full service URL after your service is created. Make sure to go back and update the <code>WEBHOOK_URL</code> environment variable with this actual link before starting the bot.</p><h4>⚙️ Step 4: Advanced Settings</h4>
-<ul>
-  <li><strong>Auto-Deploy:</strong> Enabled (recommended)</li>
-  <li><strong>Plan:</strong> Free tier (good for testing)</li>
-  <li><strong>Health Check Path:</strong> <code>/</code> (make sure it's implemented in <code>angel.py</code>)</li>
-</ul><h4>🚀 Step 5: Deploy!</h4>
+</table><p><strong>Note:</strong> You will get the full service URL after your service is created. Make sure to go back and update the <code>WEBHOOK_URL</code> environment variable with this actual link before starting the bot.</p><h4>⚙️ tr
+</ul><h4>🚀 Step 4: Deploy!</h4>
 <ol>
   <li>Click <strong>“Create Web Service”</strong></li>
   <li>Wait for Render to build your project</li>
