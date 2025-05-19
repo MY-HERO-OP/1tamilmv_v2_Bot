@@ -24,7 +24,7 @@ setup(
     description="♥️ Telegram bot for downloading from Tamilmv",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="WOODcraft",
+    author="MY-HERO-OP",
     author_email="heron3477@gmail.com",
     url="https://github.com/MY-HERO-OP/1tamilmv_v2_Bot",
     packages=find_packages(),
