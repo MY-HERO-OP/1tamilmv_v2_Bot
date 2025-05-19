@@ -67,7 +67,7 @@ python -m tamilmvbot.angel
   <tbody>
     <tr><td><code>TOKEN</code></td><td>Your Telegram Bot Token</td></tr>
     <tr><td><code>WEBHOOK_URL</code></td><td><strong>Use the full Render service URL, e.g.:</strong> <code>https://tamilmv-bot.onrender.com</code></td></tr>
-    <tr><td><code>PORT</code></td><td>10000</td></tr>
+    <tr><td><code>PORT</code></td><td>3000</td></tr>
     <tr><td><code>TAMILMV_URL</code></td><td>https://www.1tamilmv.fi</td></tr>
   </tbody>
 </table><p><strong>Note:</strong> You will get the full service URL after your service is created. Make sure to go back and update the <code>WEBHOOK_URL</code> environment variable with this actual link before starting the bot.</p><h4>
