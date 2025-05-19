@@ -8,7 +8,6 @@
 
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4250F7&background=FF512800&center=true&vCenter=true&width=435&lines=%F0%9D%90%96%F0%9D%90%8E%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD+%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AB+%F0%9D%90%99%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9E%E2%84%A2)](https://git.io/typing-svg)</p>
 <p align="center">
 
@@ -17,41 +16,18 @@
 </h1>
 <br>
 
-# Deploy Now Back4App render Koyeb Heroku
+# Deploy Now Render Koyeb Heroku
 - Telegram bot torrent magnet link 🧲 
 
 ---
-
 # Environment Variables
-
 Before running the bot, make sure to create a .env file in the project root with the following variables:
-
 ```
 TOKEN=your_telegram_bot_token
 WEBHOOK_URL=https://your-domain.com
 TAMILMV_URL=https://www.1tamilmv.fi
 PORT=3000
 ```
-
-- `TOKEN` – Your Telegram bot token from BotFather
-
-- `WEBHOOK_URL` – The public URL where your bot is hosted (used for setting the webhook)
-
-- `TAMILMV_URL` – (Optional) Base URL to fetch movie data. Defaults to https://www.1tamilmv.fi if not set.
-
-- `PORT` – Port on which the Flask app will run (default: `3000`)
-
-
-
----
-
-Bot command @Botather
-```
-start - ⚡️ Bot alive cheking
-view - 🏞 View Update Movies list
-```
-<br>
-
 ---
 
 <h2>🚀 Deployment Guide for <code>tamilmv-bot</code></h2><h3>📦 Installation</h3>pip install -r requirements.txt
