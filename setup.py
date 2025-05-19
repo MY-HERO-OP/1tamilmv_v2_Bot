@@ -30,7 +30,7 @@ except FileNotFoundError:
 # মূল setup
 setup(
     name="tamilmv-bot",
-    version="0.1.2",  # মনে রাখবেন আগের থেকে version বাড়াতে হবে
+    version="0.1.3",  # মনে রাখবেন আগের থেকে version বাড়াতে হবে
     description="Telegram bot for downloading from Tamilmv",
     long_description=long_description,
     long_description_content_type="text/markdown",
