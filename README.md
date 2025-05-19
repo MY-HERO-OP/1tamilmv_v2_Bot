@@ -70,7 +70,7 @@ python -m tamilmvbot.angel
     <tr><td><code>PORT</code></td><td>10000</td></tr>
     <tr><td><code>TAMILMV_URL</code></td><td>https://www.1tamilmv.fi</td></tr>
   </tbody>
-</table><p><strong>Note:</strong> You will get the full service URL after your service is created. Make sure to go back and update the <code>WEBHOOK_URL</code> environment variable with this actual link before starting the bot.</p><h4>⚙️ tr
+</table><p><strong>Note:</strong> You will get the full service URL after your service is created. Make sure to go back and update the <code>WEBHOOK_URL</code> environment variable with this actual link before starting the bot.</p><h4>
 </ul><h4>🚀 Step 4: Deploy!</h4>
 <ol>
   <li>Click <strong>“Create Web Service”</strong></li>
@@ -85,4 +85,4 @@ python -m tamilmvbot.angel
   <li>Send <code>/start</code> to your bot in Telegram</li>
   <li>Test with <code>/view</code> or any other supported command</li>
 </ol>
----
+
