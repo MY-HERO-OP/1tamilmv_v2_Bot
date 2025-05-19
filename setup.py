@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setup(
     name="tamilmv-bot",
-    version="0.1.0",
+    version="v0.1.0",
     description="Telegram bot for downloading from Tamilmv",
     long_description=long_description,
     long_description_content_type="text/markdown",
