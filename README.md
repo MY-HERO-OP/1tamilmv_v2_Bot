@@ -3,7 +3,7 @@
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://graph.org/file/4e8a1172e8ba4b7a0bdfa.jpg" width="100%">
+<img src="https://graph.org/file/4e8a1172e8ba4b7a0bdfa.jpg" width="200px" height="200px" />
 
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
