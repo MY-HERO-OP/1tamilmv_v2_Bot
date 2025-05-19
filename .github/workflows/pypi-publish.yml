@@ -1,8 +1,9 @@
 name: Upload Python Package
 
 on:
-  release:
-    types: [published]
+  push:
+    tags:
+      - 'v*'  # v0.1.0, v1.2.3 এরকম ট্যাগে ট্রিগার হবে
 
 jobs:
   build:
