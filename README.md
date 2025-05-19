@@ -3,7 +3,7 @@
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://github.com/SudoR2spr/SudoR2spr/blob/main/assets/angel-op/spiderman.gif" width="100%">
+<img src="https://graph.org/file/4e8a1172e8ba4b7a0bdfa.jpg" width="100%">
 
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
@@ -15,7 +15,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SudoR2spr!;" />
 </h1>
 <br>
-`Deploy Now Back4App render Koyeb Heroku`
+# Deploy Now Back4App render Koyeb Heroku
 - Telegram bot torrent magnet link 🧲 
 
 ---
