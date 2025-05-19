@@ -20,11 +20,11 @@ except FileNotFoundError:
 
 setup(
     name="tamilmv-bot",
-    version="0.1.2",
-    description="Telegram bot for downloading from Tamilmv",
+    version="0.1.0",
+    description="♥️ Telegram bot for downloading from Tamilmv",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="MY-HERO-OP",
+    author="WOODcraft",
     author_email="heron3477@gmail.com",
     url="https://github.com/MY-HERO-OP/1tamilmv_v2_Bot",
     packages=find_packages(),
