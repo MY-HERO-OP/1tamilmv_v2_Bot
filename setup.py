@@ -30,9 +30,45 @@ setup(
     packages=find_packages(),
     install_requires=requirements,
     classifiers=[
+        # Python versions supported
         "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.10",
+        "Programming Language :: Python :: 3.11",
+        "Programming Language :: Python :: 3.12",
+        
+        # License
         "License :: OSI Approved :: MIT License",
+        
+        # Operating System
         "Operating System :: OS Independent",
+        
+        # Development Status
+        "Development Status :: 4 - Beta",
+        
+        # Intended Audience
+        "Intended Audience :: End Users/Desktop",
+        "Intended Audience :: Developers",
+        
+        # Topics
+        "Topic :: Internet",
+        "Topic :: Communications :: Chat",
+        "Topic :: Utilities",
+        
+        # Framework
+        "Framework :: Flask",
+        
+        # Natural Language
+        "Natural Language :: English",
     ],
     python_requires='>=3.7',
+    keywords="telegram bot tamilmv movie downloader",
+    project_urls={
+        "Bug Reports": "https://github.com/MY-HERO-OP/1tamilmv_v2_Bot/issues",
+        "Source": "https://github.com/MY-HERO-OP/1tamilmv_v2_Bot",
+    },
+    license="MIT",
+    platforms=["any"],
 )
